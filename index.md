@@ -9,7 +9,7 @@ I'm currently working as a developer for Dell R&D where I mainly deal with devel
 
 I love python and C++. Something about them.
 
-I'm curious about machine learning and distributed computing and you can see some of my projects at my <a href = "www.github.com/reallyoldturtle">git</a> or you can just get my <a href="https://drive.google.com/open?id=1YyuBJjQC1a_pfo5ybPyDjnS0Idr7tpS7">cv</a>. Fair a bit of them were done during my Masters program @ IIIT Hyderabad.
+I'm curious about machine learning and distributed computing and you can see some of my projects at my <a href = "https://www.github.com/reallyoldturtle">git</a> or you can just get my <a href="https://drive.google.com/open?id=1YyuBJjQC1a_pfo5ybPyDjnS0Idr7tpS7">cv</a>. Fair a bit of them were done during my Masters program @ IIIT Hyderabad.
 
 When I'm not in front of my laptop I'm probably playing football or killing it at FIFA. You can add me up at PS4 (henrypires49).
 
