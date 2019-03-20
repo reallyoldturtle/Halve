@@ -5,7 +5,7 @@ layout: home
 
 Hey there! I'm Swarnadeep.
 
-I'm currently working as a developer for Dell R&D where I mainly deal with developing and deploying APIs for the backend teams on cloud. I write code mainly in Java using the Spring boot framework. I'm still learning :)
+I'm currently working as a software developer for Microsoft where I mainly deal with developing softwares that reach out to billions :) . I write code mainly in React and C#. I'm still learning :)
 
 I love python and C++. Something about them.
 
